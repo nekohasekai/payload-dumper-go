@@ -1,0 +1,5 @@
+/.idea/
+/vendor/
+/android-ota-extractor
+/android-ota-extractor.exe
+/*.img
